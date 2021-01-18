@@ -1,0 +1,36 @@
+/*Estilos de páginas index.html*/
+.center{
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-flow:row ;
+    justify-content: center;
+    align-items: center;
+}
+
+#Menu li{
+display: inline;
+padding: 15px;
+
+
+}
+
+#Menu li a {
+text-decoration: none;
+color: black;
+font-size: 15px;
+}
+
+#Menu li a:hover {
+color: pink;}
+
+.p-30 {
+    padding: 30px;
+}
+
+/*Estilos de páginas contato.html*/
+
+.ml-50 {
+margin-left: 100px;
+}
